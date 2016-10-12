@@ -1,4 +1,0 @@
-
-tcp:lasmargaritas.database.windows.net,1433
-LasMargaritasDbUser
-LasMargaritasPassw0rd!
