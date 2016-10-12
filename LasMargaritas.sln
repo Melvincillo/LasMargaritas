@@ -13,6 +13,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LasMargaritas.Models", "Las
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LasMargaritas.UT", "LasMargaritas.UT\LasMargaritas.UT.csproj", "{039AA823-2CA1-483A-97D8-8214E16552C3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{6556E0B3-7330-4E89-8A7C-9F4A5D80B5ED}"
+	ProjectSection(SolutionItems) = preProject
+		Documentation\Azure.txt = Documentation\Azure.txt
+		Documentation\COTIZACION - SISTEMA DE BASCULA CON GAFETTES.docx = Documentation\COTIZACION - SISTEMA DE BASCULA CON GAFETTES.docx
+		Documentation\COTIZACION - SISTEMA DE BASCULA CON GAFETTES.pdf = Documentation\COTIZACION - SISTEMA DE BASCULA CON GAFETTES.pdf
+		Documentation\COTIZACION - SISTEMA DE CONTROL DE PARAFINANCIERA CON DATOS EN LA NUBE.docx = Documentation\COTIZACION - SISTEMA DE CONTROL DE PARAFINANCIERA CON DATOS EN LA NUBE.docx
+		Documentation\COTIZACION - SISTEMA DE CONTROL DE PARAFINANCIERA CON DATOS EN LA NUBE.pdf = Documentation\COTIZACION - SISTEMA DE CONTROL DE PARAFINANCIERA CON DATOS EN LA NUBE.pdf
+		Documentation\DB.txt = Documentation\DB.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
