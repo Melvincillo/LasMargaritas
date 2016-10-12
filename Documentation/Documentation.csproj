@@ -1803,6 +1803,7 @@
     <None Include="OldSystem\Garibay\Garibay\scripts\database.rar" />
     <None Include="OldSystem\Garibay\Garibay\Web.config" />
     <None Include="OldSystem\Garibay\WSGaribay\Web.config" />
+    <None Include="Tracking\Tracking.xlsx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="OldSystem\Garibay\BasculaGaribay\DBGaribay.dbml.layout">
