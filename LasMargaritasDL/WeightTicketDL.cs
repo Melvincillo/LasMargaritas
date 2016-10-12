@@ -11,7 +11,7 @@ namespace LasMargaritas.DL
 
         public WeightTicketsDL(string connectionString)
         {
-            ConnectionString = connectionString  ;
+            ConnectionString = connectionString;
         }
 
         public WeightTicket InsertWeightTicket(WeightTicket weightTicket)
